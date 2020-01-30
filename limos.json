@@ -1,0 +1,17 @@
+[
+  {
+    "name": "limo1",
+    "size" : "small",
+    "price": "100$"
+  },
+  {
+    "name": "limo2",
+    "size" : "medium",
+    "price": "150$"
+  },
+  {
+    "name": "limo3",
+    "size" : "big",
+    "price": "200$"
+  }
+]

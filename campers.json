@@ -1,0 +1,17 @@
+[
+  {
+    "name": "camp1",
+    "size" : "small",
+    "price": "100$"
+  },
+  {
+    "name": "camp2",
+    "size" : "medium",
+    "price": "150$"
+  },
+  {
+    "name": "camp3",
+    "size" : "big",
+    "price": "200$"
+  }
+]
