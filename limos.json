@@ -2,7 +2,7 @@
   {
     "name": "limo1",
     "size" : "small",
-    "price": "100$"
+    "price": "25$"
   },
   {
     "name": "limo2",
@@ -12,6 +12,6 @@
   {
     "name": "limo3",
     "size" : "big",
-    "price": "200$"
+    "price": "400$"
   }
 ]

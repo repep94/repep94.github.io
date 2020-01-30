@@ -2,7 +2,7 @@
   {
     "name": "camp1",
     "size" : "small",
-    "price": "100$"
+    "price": "25$"
   },
   {
     "name": "camp2",
@@ -12,6 +12,6 @@
   {
     "name": "camp3",
     "size" : "big",
-    "price": "200$"
+    "price": "400$"
   }
 ]
